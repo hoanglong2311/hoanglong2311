@@ -1,7 +1,7 @@
 ### Hi there 👋
-A fresher from Vietnam
+A Software Engineer from Vietnam
 
-👨‍🎓Hi, my name is Hoang Long. I'm a student in FPT University, Da Nang Campus.
+👨‍🎓Hi, my name is Hoang Long. 
 
 <!--
 **hoanglong2311/hoanglong2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
